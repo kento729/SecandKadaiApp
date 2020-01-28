@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  SecondKadaiApp
+//  SecandKadaiApp
 //
-//  Created by 佐藤健斗 on 2020/01/21.
+//  Created by 佐藤健斗 on 2020/01/27.
 //  Copyright © 2020 佐藤健斗. All rights reserved.
 //
 
